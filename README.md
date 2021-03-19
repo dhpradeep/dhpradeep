@@ -27,7 +27,7 @@ I'm Pradip Dhakal a Full Stack Web Developer. I Spend most of time coding outsta
 
 <br />
 
-#### Github Stats
+### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=dhpradeep&count_private=true&theme=tokyonight)
 
