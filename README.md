@@ -23,10 +23,3 @@ I'm Pradip Dhakal a Full Stack Web Developer. I Spend most of time coding outsta
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=dhpradeep&count_private=true&theme=tokyonight)
 
-</details>
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
