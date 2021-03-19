@@ -27,8 +27,6 @@ I'm Pradip Dhakal a Full Stack Web Developer. I Spend most of time coding outsta
 
 <br />
 <br />
-<br />
-<br />
 
 #### Github Stats
 
