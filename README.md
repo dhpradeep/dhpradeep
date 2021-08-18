@@ -3,7 +3,7 @@
 I'm Pradip Dhakal a Full Stack Web Developer. I Spend most of time coding outstanding projects.
 
 
-[![Twitter Badge](https://img.shields.io/badge/-%40thejune23rd-blue?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thejune23rd)](https://twitter.com/thejune23rd) [![Linkedin Badge](https://img.shields.io/badge/-pradip-informational?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradip-dhakal-670655133/) [![Instagram Badge](https://img.shields.io/badge/-dhpradeep25-ff69b4?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/dhpradeep25/) [![Mail Badge](https://img.shields.io/badge/-pradip%20dhakal-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dhpradeep25@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-pradip-informational?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhpradeep25/) [![Instagram Badge](https://img.shields.io/badge/-dhpradeep25-ff69b4?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/dhpradeep25/) [![Mail Badge](https://img.shields.io/badge/-pradip%20dhakal-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dhpradeep25@gmail.com)
 
 <!-- TODO: Add last video link -->
 
