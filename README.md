@@ -1,14 +1,13 @@
 ## Hi I'm Pradip <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Pradip Dhakal a Full Stack Web Developer. I Spend most of time coding outstanding projects.
+Hi, I'm a Customer-focused Software Engineer with superior communication skills and expertise in various technical platforms. Understands and meets client and employer needs and develops highly functional, robust and easy-to-use applications. I Spend most of time coding outstanding projects.
 
 
  [![Linkedin Badge](https://img.shields.io/badge/-pradip-informational?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhpradeep25/) [![Instagram Badge](https://img.shields.io/badge/-dhpradeep25-ff69b4?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/dhpradeep25/) [![Mail Badge](https://img.shields.io/badge/-pradip%20dhakal-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dhpradeep25@gmail.com)
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at [@eversoftgroup](https://github.com/eversoftgroup)
-- 🤔 I’m looking for help with Outstanding Project ideas.
+- 🔭 I’m currently working at [@sourcewiz](https://github.com/sourcewiz)
 - 📫 How to reach me: dhpradeep25@gmail.com.
 - ⚡ Fun fact: I love to play video games.
 
