@@ -7,7 +7,7 @@ Hi, I'm a Customer-focused Software Engineer with superior communication skills 
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at [@sourcewiz](https://github.com/sourcewiz)
+- 🔭 Actively looking for a new opportunities (contact: https://dhakalpradip.com.np)
 - 📫 How to reach me: dhpradeep25@gmail.com.
 - ⚡ Fun fact: I love to play video games.
 
