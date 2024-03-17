@@ -28,5 +28,5 @@ Hi, I'm a Customer-focused Software Engineer with superior communication skills 
 
 ### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=dhpradeep&count_private=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dhpradeep&theme=dark&exclude_days=Sun%2CSat&card_width=600&currStreakNum=5E7EEB)](https://git.io/streak-stats)
 
