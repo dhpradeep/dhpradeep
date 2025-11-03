@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhpradeep25&label=Profile%20Views&color=0e75b6&style=flat" alt="theoctober19th" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhpradeep25&label=Profile%20Views&color=0e75b6&style=flat" alt="dhpradeep25" /> </p>
 
 ## Hi, I'm Pradip Dhakal 👋
 
