@@ -2,7 +2,7 @@
 
 ## Hi, I'm Pradip Dhakal 👋
 
-### AI Systems Architect | Full-Stack Engineer
+### AI Engineer | Senior Software Engineer
 
 I'm a **full-stack engineer and AI systems architect** with 6+ years of experience building and scaling intelligent automation solutions. I specialize in designing **multiagent AI systems** that automate complex business workflows, reduce manual effort, and deliver measurable efficiency gains.
 
